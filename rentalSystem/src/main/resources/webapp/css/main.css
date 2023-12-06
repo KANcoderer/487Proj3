@@ -1,0 +1,18 @@
+body {
+    padding: 5px;
+}
+
+img.logo {
+    display: block;
+    float: right;
+    width: 150px;
+}
+
+section#content {
+    min-height: 500px;
+    margin-bottom: 200px;
+}
+.form-center{
+    display: block;
+    justify-content: center;
+}
